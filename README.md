@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any hacking group 
 - 📫 How to reach me youtube-Bytehackedits and instagram-bytehackedits_
 - 😄 Pronouns: Bytehackedits
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i am in class 10th and i don't have intrest in study 
 
 <!---
 AMTGAMER009/AMTGAMER009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
