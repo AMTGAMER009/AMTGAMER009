@@ -1,12 +1,19 @@
-- 👋 Hi, I’m ByteHackEdits
-- 👀 I’m interested in Hacking and coding 
-- 🌱 I’m currently in class 10th
-- 💞️ I’m looking to collaborate on any hacking group 
-- 📫 How to reach me youtube-Bytehackedits and instagram-bytehackedits_
-- 😄 Pronouns: Bytehackedits
-- ⚡ Fun fact: i am in class 10th and i don't have intrest in study 
+# Bytehackedits 👨‍💻
 
-<!---
-AMTGAMER009/AMTGAMER009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to **Bytehackedits**, your one-stop place for hacking tutorials, CTF solutions, and some cool content creation!
+
+## 💻 What I Do:
+- 🛠️ **CTF Solutions**: Walkthroughs of TryHackMe challenges.
+- 🎥 **Tutorials**: How-tos on everything from hacking to content creation.
+- ✨ **Edits**: Cool visual edits to make your content pop.
+
+
+
+## 💡 My Tools:
+```bash
+# Hacking tools
+$ nmap -sS 192.168.0.1
+$ hydra -l admin -P /path/to/passwords.txt ssh://192.168.0.1
+
+# Content creation tools
+$ python3 edit.py
